@@ -1,4 +1,4 @@
-# 8-1-0-playlist-app
+# 8.1.0 - Playlist App
 The homework this week will be a little bit different. It will be more similar to a solo project! To get started, create a new repo on your account called 810-playlist-app. You will submit the link to the repo on canvas (it will be posted shortly).Your homework this week is listed at “Challenge” section at the bottom of this Notes Repository
 Links to an external site., but here is a quick overview:
 
